@@ -1,0 +1,16 @@
+name,description,title,sender,url,home,supportEmail,supportNumber
+"default","XELT","XELT Competitions","gameworld@xelt.org","http://localhost:8100","https://xelt.org",support@xelt.org,01111111111
+"ntataise","Ntataise","Ntataise Championship","championship@ntataise.org","http://localhost:8100","https://www.ntataise.co.za/",support@ntataise.org,+27 670 40 84 97
+"generic","Generic Customer","Generic Customer Title","no-reply@genericcustomer.org","http://localhost:8100","https://www.genericcustomer.co.za/",support@generic.org,+27 123 4567
+"ikeys","UCT Rugby Club","Ikey Tigers Portal","chris@xelt.org","https://www.xelt.org","http://localhost:8100",chris@xelt.org,+27 21 286 4277
+"kulenkampff","Kulenkampff & Associates","Kulenkampff & Associates","chris@xelt.org","https://www.xelt.org","http://localhost:8100",chris@xelt.org,+44 796 520 5293
+"tagmarshal","tagmarshal","tagmarshal","chris@xelt.org","https://www.xelt.org","http://localhost:8100",chris@xelt.org,+44 796 520 5293
+"applejuice","Apple Juice","Apple Juice","chris@xelt.org","https://www.xelt.org","http://localhost:8100",chris@xelt.org,+44 796 520 5293
+"democustomer","Demo Customer","Demo Customer","chris@xelt.org","https://www.xelt.org","http://localhost:8100",chris@xelt.org,+44 796 520 5293
+"sunflower","Sunflower Customer","Sunflower Customer","chris@xelt.org","https://www.xelt.org","http://localhost:8100",chris@xelt.org,+44 796 520 5293
+"uvuness","Uvu Africa","Uvu Africa","no-reply@brainjuice.tech","https://www.brainjuice.tech","http://localhost:8100",support@brainjuice.tech,+44 796 520 5293
+"natureconnect","Nature Connect","Nature Connect","no-reply@brainjuice.tech","https://www.brainjuice.tech","http://localhost:8100",support@brainjuice.tech,+44 796 520 5293
+"commonground","Common Ground","Common Ground","no-reply@brainjuice.tech","https://www.brainjuice.tech","http://localhost:8100",support@brainjuice.tech,+44 796 520 5293
+"foregroup","Fore! Group","Fore! Group","no-reply@brainjuice.tech","https://www.brainjuice.tech","http://localhost:8100",support@brainjuice.tech,+44 796 520 5293
+"datagambit","dataGambit","dataGambit","no-reply@brainjuice.tech","https://www.brainjuice.tech","http://localhost:8100",support@brainjuice.tech,+44 796 520 5293
+"vc4a","VC4A","VC4A","no-reply@brainjuice.tech","https://www.brainjuice.tech","http://localhost:8100",support@brainjuice.tech,+44 796 520 5293
