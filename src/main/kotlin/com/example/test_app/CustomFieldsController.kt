@@ -22,7 +22,7 @@ class CustomFieldsController {
 
     private val logger: Logger = LoggerFactory.getLogger(CustomFieldsController::class.java)
 
-    @PostMapping("/write-to-excel")
+    @GetMapping("/write-to-excel")
     fun writeToExcel(): String {
         logger.info("writeToExcel endpoint called")
 

@@ -1,4 +1,4 @@
-name,description,title,sender,url,home,supportEmail,supportNumber
+name,description,title,sender,url,home,supportEmail,supportNumber,
 "default","XELT","XELT Competitions","gameworld@xelt.org","http://localhost:8100","https://xelt.org",support@xelt.org,01111111111
 "ntataise","Ntataise","Ntataise Championship","championship@ntataise.org","http://localhost:8100","https://www.ntataise.co.za/",support@ntataise.org,+27 670 40 84 97
 "generic","Generic Customer","Generic Customer Title","no-reply@genericcustomer.org","http://localhost:8100","https://www.genericcustomer.co.za/",support@generic.org,+27 123 4567
